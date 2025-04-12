@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fc1e9b799a7a3484297568e1c48de7aa
+guid: 1f59566523316854c8fdc7d5802c0a51
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,52 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Golden Tree
-    second: {fileID: 2100000, guid: 94045294c7190c748abd39376fb0ce94, type: 2}
+    second: {fileID: 2100000, guid: b64253bfff3fe8e45bb02572a6fe5312, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: soil
-    second: {fileID: 2100000, guid: bb910caa5aadd5949a1524af4f01d2f3, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Golden Tree_BaseColor
-    second: {fileID: 2800000, guid: c63f49d46962ec34d85b82fa30da8fdf, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Golden Tree_Metallic
-    second: {fileID: 2800000, guid: 6ea092117913db849b37779731313834, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Golden Tree_Normal
-    second: {fileID: 2800000, guid: e3a3fd37ae6a85a4eb5eb552a4618816, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Golden Tree_Roughness
-    second: {fileID: 2800000, guid: 067130e083b36a842ab369d3b800c370, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: soil_BaseColor
-    second: {fileID: 2800000, guid: cef09fc86cebcac4c81d314f90e5e2e1, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: soil_Metallic
-    second: {fileID: 2800000, guid: c7eef235af8bdb14689c1d43b8fe8f67, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: soil_Normal
-    second: {fileID: 2800000, guid: 1b8598fa9a9032d47841d176cf04e0f5, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: soil_Roughness
-    second: {fileID: 2800000, guid: 38ae38b2081f4eb4aac09f8559be66df, type: 3}
+    second: {fileID: 2100000, guid: e0debee727e893e43bf8cf1a41e76dcd, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
