@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: e7b5affeec33e7a4e89f44575fe6c352
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Backside
+    second: {fileID: 2100000, guid: d57113b4d6c97194d9205ac06be14520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Border
+    second: {fileID: 2100000, guid: a95412031fa6b7648bb8b71fc0810a8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BottomPart
+    second: {fileID: 2100000, guid: ebb7ee63a5937ec4180c06e3fd5766f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover
+    second: {fileID: 2100000, guid: 0bea41e3d833ff84bb1f246e43a822ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover.001
+    second: {fileID: 2100000, guid: f9bd39174d3243d4ba6eb3d6d4547b0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover.002
+    second: {fileID: 2100000, guid: e981d3f30e5be5e458dac68037ee04fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover.003
+    second: {fileID: 2100000, guid: 4e86f906ecc41624a82d88f85561cf1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover.004
+    second: {fileID: 2100000, guid: 07c1b583d09be8d408bce31aab51cf1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover.005
+    second: {fileID: 2100000, guid: c0edc9cbee3eed1478fe40b83a446f0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NormalWood
+    second: {fileID: 2100000, guid: 62f8948cfc79ed44fb979ce1ef6638d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paper
+    second: {fileID: 2100000, guid: 39c4e542b0cd7fd49980222f6f104a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillar
+    second: {fileID: 2100000, guid: 53cd2d34d04b8db4aadf4969ab647b10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SemiCircle
+    second: {fileID: 2100000, guid: 5682e764a7d92f7428c7c4aca1900832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TopPart
+    second: {fileID: 2100000, guid: 1c7730fe7183ea34d80bb5c8cbea9e60, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book2_Cover_Normal
+    second: {fileID: 2800000, guid: 2064b0930dda20d45a84a9ed22a00864, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BookCovers0077_2_350-removebg-preview
+    second: {fileID: 2800000, guid: 014b16c9a1ba5ef4cb87f61d4c7fe1be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BooksToSubstance_Paper_BaseColor
+    second: {fileID: 2800000, guid: a4de237e5612de24886303b8d169b235, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BooksToSubstance_Paper_Normal
+    second: {fileID: 2800000, guid: 7777f2c84880a9a4aabc8e45e66e9a40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookcover2
+    second: {fileID: 2800000, guid: dfe08e35322b23a4bb68a19d7a25cdd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookcover3
+    second: {fileID: 2800000, guid: 6e1fd0fc74428384db2a3b83787ce2a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookcover4
+    second: {fileID: 2800000, guid: 015e8152f1ada82469d5994f8efaabd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookcover5
+    second: {fileID: 2800000, guid: 530d78db1a902e845b315f1840a0fdd2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookcover6
+    second: {fileID: 2800000, guid: de0aef22f7538dd44b803e22bdff577e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_Backside_BaseMap
+    second: {fileID: 2800000, guid: aa261bf1c02b0a04f8c8760bc2b2f514, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_Backside_Normal
+    second: {fileID: 2800000, guid: a4591135e2b5c4c4e8733ba86d8deb6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_Border_BaseMap
+    second: {fileID: 2800000, guid: 1562f24a8793a284984074e608ce1227, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_Border_Normal
+    second: {fileID: 2800000, guid: 424b0996771ca95409aebd84636b6565, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_BottomPart_BaseMap
+    second: {fileID: 2800000, guid: 268defc1b2731844e850d937fe060e59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_BottomPart_Normal
+    second: {fileID: 2800000, guid: a678fe2681a3f0041b6acdd270a4b20e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_NormalWood_BaseMap
+    second: {fileID: 2800000, guid: 5bc45b648dc729c499ab8cc0390fbf9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_NormalWood_Normal
+    second: {fileID: 2800000, guid: e819e2bea7b8bd146887d4741159e4a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_Pillar_BaseMap
+    second: {fileID: 2800000, guid: c3467f80559b4e14a94515a7014179fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_Pillar_Normal
+    second: {fileID: 2800000, guid: cbc8b42fbda97784f86a3e073cc61b8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_SemiCircle_BaseMap
+    second: {fileID: 2800000, guid: 03ed800b90cc1084baf507a61501785b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_SemiCircle_Normal
+    second: {fileID: 2800000, guid: 9a037cd4d71939447bc61245a8474ff5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_TopPart_BaseMap
+    second: {fileID: 2800000, guid: 0cd072b22b77205419d9b612b300114f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_TopPart_Normal
+    second: {fileID: 2800000, guid: 0f77119610f05d24688509651bef8b7d, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

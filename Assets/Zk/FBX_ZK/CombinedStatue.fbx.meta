@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 36431f56f73a58f429ff85d66e231fdb
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube1
+    second: {fileID: 2100000, guid: d1a85012e6b9ba641857853a794085aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_001
+    second: {fileID: 2100000, guid: 24dd2a0999506a74c84f6dbaa685dca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_002
+    second: {fileID: 2100000, guid: 857d8ef8bc008ae42b875eeb18f769e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_003
+    second: {fileID: 2100000, guid: 8bc2ade010f9e18459b2d415ae50d2e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_004
+    second: {fileID: 2100000, guid: 8ac9b13dd54ace14faa5242d78b5ca3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Style_Default
+    second: {fileID: 2100000, guid: 00feee6d9bf60394ba89ab48f19e1762, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 8412553d246560949b83935554e8b762, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: f9f85c4a20bfd9843815f8616d093268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 24a4f0fde2c7df7418dcbb37064e8861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nickz_humanMaleAverage
+    second: {fileID: 2100000, guid: 48a851d9a5866734694d817852f17b04, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Cube1_BaseMap
+    second: {fileID: 2800000, guid: 787ae7b594461644a8cb0cec2198e17a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Cube1_Normal
+    second: {fileID: 2800000, guid: bdbf674a1f03aad4e89d750875da79c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Cube_001_BaseMap
+    second: {fileID: 2800000, guid: a1638e2c09b190e45af8123e1b40e362, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Cube_001_Normal
+    second: {fileID: 2800000, guid: e5f0b9f51932ce345957eb736e91381d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Cube_002_BaseMap
+    second: {fileID: 2800000, guid: 100fa079c7a52034fa3ab24e4865e333, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Cube_002_Normal
+    second: {fileID: 2800000, guid: 4e32e8eb3ec573343a793b7d825a8883, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Cube_003_BaseMap
+    second: {fileID: 2800000, guid: 42d119cdc3272ea40900afd82bf2901a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Cube_003_Normal
+    second: {fileID: 2800000, guid: 9d7294f80838b6d4ca2d7451a15a74c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Cube_004_BaseMap
+    second: {fileID: 2800000, guid: cac87c7aafaee7a4c946a0c113048ea9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Cube_004_Normal
+    second: {fileID: 2800000, guid: 05ff234d112335e4b8524bcd8d6c0909, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Hair_Style_Default_BaseMap
+    second: {fileID: 2800000, guid: b13dc8cf1a789ab4598bbf45ad3fc423, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Hair_Style_Default_Normal
+    second: {fileID: 2800000, guid: 6feacd4923cf6c740adb22130a3862b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Material.001_BaseMap
+    second: {fileID: 2800000, guid: c0fab930640822f42bf309620ed8bbd2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Material.001_Normal
+    second: {fileID: 2800000, guid: 7de10a5d4d4617b419e7968c9bec783d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Material.002_BaseMap
+    second: {fileID: 2800000, guid: 65222796eb33bb44e8b8ac58e3c484d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Material.002_Normal
+    second: {fileID: 2800000, guid: 80a134320bf1d5d4491179b78b65b9ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Material_BaseMap
+    second: {fileID: 2800000, guid: 4daf7a2e67445f24f92e7265166e4dfc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Material_Normal
+    second: {fileID: 2800000, guid: 2631523d0dd4b3549ae29b2223e42b66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Nickz_humanMaleAverage_BaseMap
+    second: {fileID: 2800000, guid: 91b7d5b5ca0b6a544b275f856611a4e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombinedStatue_Nickz_humanMaleAverage_Normal
+    second: {fileID: 2800000, guid: 3b0d2be2ba6369a41a7d225b3fdacf9a, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
